@@ -3,4 +3,4 @@ def parrot(parrot_talk = "Squawk")
   return parrot_talk
 end
 # returns the phrase
-parrot()
+parrot("Polly wanna cracker!")
